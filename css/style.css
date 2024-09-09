@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: aqua;
+}
+
+.menu{
+  width: 1000px;
+  height: 60px;
+  background-color: brown;
+  display: flex;
+  align-items: center; 
+  gap: 80px;
+}
+
+.topic{
+  font-size: 40px;
+  text-transform: uppercase;
+}
